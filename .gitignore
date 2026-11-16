@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+*.pyc
+FoodX_GitHub_Ready/
+data/processed/csv/food_orders/
+data/processed/parquet/food_orders/
+spark-warehouse/
+metastore_db/
+derby.log

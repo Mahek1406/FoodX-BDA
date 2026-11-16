@@ -1,0 +1,22 @@
+Restaurant ID,Restaurant name,total_orders,average_order_value,restaurant_rank,order_share
+20659868.0,Aura Pizzas,4614,754.31,1,0.2164
+20635699.0,Aura Pizzas,4418,702.03,2,0.2072
+20554001.0,Swaad,2781,552.66,3,0.1304
+20882652.0,Aura Pizzas,2545,774.0,4,0.1194
+21077127.0,Aura Pizzas,2051,736.29,5,0.0962
+20320607.0,Swaad,1774,528.59,6,0.0832
+20882713.0,Swaad,1079,559.22,7,0.0506
+21173951.0,Aura Pizzas,920,749.67,8,0.0431
+21309083.0,Swaad,698,669.71,9,0.0327
+20968206.0,Dilli Burger Adda,109,481.83,10,0.0051
+21143186.0,Tandoori Junction,72,905.77,11,0.0034
+20968194.0,Dilli Burger Adda,47,456.36,12,0.0022
+21145152.0,Tandoori Junction,38,904.9,13,0.0018
+21114574.0,Dilli Burger Adda,37,439.73,14,0.0017
+20968171.0,Dilli Burger Adda,34,337.39,15,0.0016
+21467269.0,The Chicken Junction,29,378.98,16,0.0014
+21523055.0,Masala Junction,28,327.23,17,0.0013
+21350931.0,Tandoori Junction,28,704.45,18,0.0013
+21424296.0,Tandoori Junction,16,896.25,19,0.0008
+21467440.0,The Chicken Junction,2,474.81,20,0.0001
+21467512.0,The Chicken Junction,1,441.0,21,0.0

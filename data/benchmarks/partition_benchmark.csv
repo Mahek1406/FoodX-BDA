@@ -1,0 +1,4 @@
+strategy,partitions,record_count,elapsed_seconds
+baseline,4,21321,0.4547045000072103
+repartition,4,21321,0.4691477999876952
+coalesce,2,21321,0.3452172999968752
